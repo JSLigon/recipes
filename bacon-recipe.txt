@@ -1,0 +1,7 @@
+Ingredients:
+ - bacon
+
+Directions:
+  1. Take the bacon out of the package.
+  2. Put it in the pan or skillet.
+  3. Cook it up.
